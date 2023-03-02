@@ -8,8 +8,8 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ## Referência
 
- - [Design Desktop](![](./design/desktop-design.jpg))
- - [Design Mobile](![](./design/mobile-design.jpg))
+ - [Design Desktop](./design/desktop-design.jpg)
+ - [Design Mobile](./design/mobile-design.jpg)
 
 ## Stack utilizada
 
